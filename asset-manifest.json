@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-quizz-sustainability/static/css/main.6afa8ee8.chunk.css",
+    "main.js": "/react-quizz-sustainability/static/js/main.32117d91.chunk.js",
+    "main.js.map": "/react-quizz-sustainability/static/js/main.32117d91.chunk.js.map",
+    "runtime-main.js": "/react-quizz-sustainability/static/js/runtime-main.030e39be.js",
+    "runtime-main.js.map": "/react-quizz-sustainability/static/js/runtime-main.030e39be.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/react-quizz-sustainability/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b4071ad8.chunk.js": "/react-quizz-sustainability/static/js/2.b4071ad8.chunk.js",
+    "static/js/2.b4071ad8.chunk.js.map": "/react-quizz-sustainability/static/js/2.b4071ad8.chunk.js.map",
+    "static/js/3.15bce770.chunk.js": "/react-quizz-sustainability/static/js/3.15bce770.chunk.js",
+    "static/js/3.15bce770.chunk.js.map": "/react-quizz-sustainability/static/js/3.15bce770.chunk.js.map",
+    "index.html": "/react-quizz-sustainability/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/react-quizz-sustainability/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.6afa8ee8.chunk.css.map": "/react-quizz-sustainability/static/css/main.6afa8ee8.chunk.css.map",
+    "static/js/2.b4071ad8.chunk.js.LICENSE.txt": "/react-quizz-sustainability/static/js/2.b4071ad8.chunk.js.LICENSE.txt",
+    "static/media/img1.60c91272.jpg": "/react-quizz-sustainability/static/media/img1.60c91272.jpg",
+    "static/media/img2.01e3e919.jpg": "/react-quizz-sustainability/static/media/img2.01e3e919.jpg",
+    "static/media/img3.1b115d27.jpg": "/react-quizz-sustainability/static/media/img3.1b115d27.jpg",
+    "static/media/img4.f7f7d9fd.jpg": "/react-quizz-sustainability/static/media/img4.f7f7d9fd.jpg",
+    "static/media/img5.39bcb178.jpg": "/react-quizz-sustainability/static/media/img5.39bcb178.jpg",
+    "static/media/img6.868bb7ea.jpg": "/react-quizz-sustainability/static/media/img6.868bb7ea.jpg",
+    "static/media/img7.51b35f4b.jpg": "/react-quizz-sustainability/static/media/img7.51b35f4b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.030e39be.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.b4071ad8.chunk.js",
+    "static/css/main.6afa8ee8.chunk.css",
+    "static/js/main.32117d91.chunk.js"
+  ]
+}
